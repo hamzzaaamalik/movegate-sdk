@@ -1,0 +1,49 @@
+{
+  "name": "@movegate/sdk",
+  "version": "0.1.0",
+  "description": "TypeScript SDK for MoveGate Protocol on Sui",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "prettier --check src/",
+    "format": "prettier --write src/"
+  },
+  "peerDependencies": {
+    "@mysten/sui": "^2.0.0"
+  },
+  "devDependencies": {
+    "@mysten/sui": "^2.0.0",
+    "@types/node": "^25.5.0",
+    "prettier": "^3.0.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.5.0",
+    "vitest": "^2.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamzzaaamalik/movegate-sdk"
+  },
+  "keywords": [
+    "sui",
+    "movegate",
+    "agent",
+    "authorization",
+    "hot-potato",
+    "defi"
+  ]
+}

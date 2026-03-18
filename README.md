@@ -1,18 +1,19 @@
-<p align="center">
-  <h1 align="center">@movegate/sdk</h1>
-  <p align="center">
-    <strong>Build trustless AI agents on Sui.</strong>
-    <br />
-    TypeScript SDK for <a href="https://github.com/hamzzaaamalik/movegate-contracts">MoveGate Protocol</a>. Agent Identity, Authorization & Trust Infrastructure.
-  </p>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/@movegate/sdk"><img src="https://img.shields.io/npm/v/@movegate/sdk?style=flat-square&color=blue" alt="npm" /></a>
-  <a href="https://github.com/hamzzaaamalik/movegate-sdk/actions"><img src="https://img.shields.io/github/actions/workflow/status/hamzzaaamalik/movegate-sdk/ci.yml?style=flat-square" alt="build" /></a>
-  <a href="https://github.com/hamzzaaamalik/movegate-sdk/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/@movegate/sdk?style=flat-square" alt="license" /></a>
-  <a href="https://www.npmjs.com/package/@movegate/sdk"><img src="https://img.shields.io/npm/dm/@movegate/sdk?style=flat-square" alt="downloads" /></a>
-</p>
+# @movegate/sdk
+
+**Build trustless AI agents on Sui.**
+
+TypeScript SDK for [MoveGate Protocol](https://github.com/hamzzaaamalik/movegate-contracts). Agent Identity, Authorization & Trust Infrastructure.
+
+[![npm](https://img.shields.io/npm/v/@movegate/sdk?style=flat-square&color=blue)](https://www.npmjs.com/package/@movegate/sdk)
+[![build](https://img.shields.io/github/actions/workflow/status/hamzzaaamalik/movegate-sdk/ci.yml?style=flat-square)](https://github.com/hamzzaaamalik/movegate-sdk/actions)
+[![license](https://img.shields.io/npm/l/@movegate/sdk?style=flat-square)](https://github.com/hamzzaaamalik/movegate-sdk/blob/main/LICENSE)
+[![downloads](https://img.shields.io/npm/dm/@movegate/sdk?style=flat-square)](https://www.npmjs.com/package/@movegate/sdk)
+
+[Website](https://movegate.xyz) · [Smart Contracts](https://github.com/hamzzaaamalik/movegate-contracts) · [npm](https://www.npmjs.com/package/@movegate/sdk)
+
+</div>
 
 ---
 
